@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D873D26B29F0903300D29F7A /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = D873D26A29F0903300D29F7A /* SleepCalculator.mlmodel */; };
 		D8B8B3F029F0845500D673E6 /* BetterRestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B8B3EF29F0845500D673E6 /* BetterRestApp.swift */; };
 		D8B8B3F229F0845500D673E6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B8B3F129F0845500D673E6 /* ContentView.swift */; };
 		D8B8B3F429F0845800D673E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8B8B3F329F0845800D673E6 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D873D26A29F0903300D29F7A /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
 		D8B8B3EC29F0845500D673E6 /* BetterRest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BetterRest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8B8B3EF29F0845500D673E6 /* BetterRestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BetterRestApp.swift; sourceTree = "<group>"; };
 		D8B8B3F129F0845500D673E6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				D8B8B3EF29F0845500D673E6 /* BetterRestApp.swift */,
 				D8B8B3F129F0845500D673E6 /* ContentView.swift */,
+				D873D26A29F0903300D29F7A /* SleepCalculator.mlmodel */,
 				D8B8B3F329F0845800D673E6 /* Assets.xcassets */,
 				D8B8B3F529F0845800D673E6 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D873D26B29F0903300D29F7A /* SleepCalculator.mlmodel in Sources */,
 				D8B8B3F229F0845500D673E6 /* ContentView.swift in Sources */,
 				D8B8B3F029F0845500D673E6 /* BetterRestApp.swift in Sources */,
 			);
